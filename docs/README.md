@@ -1,3 +1,6 @@
+> [!NOTE]
+> This repository has moved to [lesiw.io/tools/analyzers/errfmt](https://github.com/lesiw/tools/tree/main/analyzers/errfmt).
+
 # lesiw.io/errfmt
 
 [![Go Reference](https://pkg.go.dev/badge/lesiw.io/errfmt.svg)](https://pkg.go.dev/lesiw.io/errfmt)
